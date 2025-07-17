@@ -1,3 +1,4 @@
+
 # Pedro Cutrim dos Santos
 
 **`DevOps | Backend | Tech Lead em formação`**
@@ -7,24 +8,24 @@
 <!-- Contact Badges -->
 <p align="center">
   <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/in/pedrocutrim" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/feed/" style="text-decoration: none;">
     <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
          src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00114d" /></a>
 
   <!-- Gmail Badge -->
-  <a href="mailto:pedrocutrim.dev@gmail.com" style="text-decoration: none;">
+  <a href="mailto:eu@pedrocutrim.com.br" style="text-decoration: none;">
     <img alt="Gmail" title="Me envie um e-mail" 
          src="https://custom-icon-badges.demolab.com/badge/-Email-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00114d" /></a>
 
   <!-- GitHub Repositories Badge -->
-  <a href="https://github.com/pedrocutrim?tab=repositories" style="text-decoration: none;">
+  <a href="https://github.com/pedrocutrimsantos?tab=repositories" style="text-decoration: none;">
     <img alt="Repositories" title="Veja meus repositórios no GitHub" 
          src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=00114d" /></a>
 
   <!-- Followers Badge -->
-  <a href="https://github.com/pedrocutrim?tab=followers" style="text-decoration: none;">
+  <a href="https://github.com/pedrocutrimsantos?tab=followers" style="text-decoration: none;">
     <img alt="Followers" title="Meus seguidores no GitHub" 
-         src="https://img.shields.io/github/followers/pedrocutrim?style=for-the-badge&color=00114d&labelColor=282A36&logo=github&logoColor=white" /></a>
+         src="https://img.shields.io/github/followers/pedrocutrimsantos?style=for-the-badge&color=00114d&labelColor=282A36&logo=github&logoColor=white" /></a>
 </p>
 
 <!-- Avatar/animation -->
@@ -71,7 +72,7 @@ Sou desenvolvedor backend e DevOps na SEFAZ-PI, focado em soluções escaláveis
   <summary>⚡ GitHub Stats</summary>
   <br>
   <div align="center">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pedrocutrim&show_icons=true&theme=blueberry&rank_icon=github" />
-    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocutrim&theme=blueberry&layout=compact" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pedrocutrimsantos&show_icons=true&theme=blueberry&rank_icon=github" />
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocutrimsantos&theme=blueberry&layout=compact" />
   </div>
 </details>
