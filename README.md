@@ -1,56 +1,45 @@
 
 # Pedro Cutrim dos Santos
 
-**`DevOps | Backend | Tech Lead em formação`**
+**`DevOps | Backend Engineer | Especialista em Integrações e Arquitetura Escalável`**
 
-<br>
+Desenvolvedor com sólida experiência em backend, DevOps e automação de processos. Atuo na SEFAZ-PI liderando a modernização de sistemas legados, arquitetura de microsserviços, integração de APIs e implementação de soluções escaláveis com foco em performance, segurança e governança.
 
-<!-- Contact Badges -->
-<p align="center">
-  <!-- LinkedIn Badge -->
-  <a href="https://www.linkedin.com/feed/" style="text-decoration: none;">
-    <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00114d" /></a>
-
-  <!-- Gmail Badge -->
-  <a href="mailto:eu@pedrocutrim.com.br" style="text-decoration: none;">
-    <img alt="Gmail" title="Me envie um e-mail" 
-         src="https://custom-icon-badges.demolab.com/badge/-Email-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00114d" /></a>
-
-  <!-- GitHub Repositories Badge -->
-  <a href="https://github.com/pedrocutrimsantos?tab=repositories" style="text-decoration: none;">
-    <img alt="Repositories" title="Veja meus repositórios no GitHub" 
-         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=00114d" /></a>
-
-  <!-- Followers Badge -->
-  <a href="https://github.com/pedrocutrimsantos?tab=followers" style="text-decoration: none;">
-    <img alt="Followers" title="Meus seguidores no GitHub" 
-         src="https://img.shields.io/github/followers/pedrocutrimsantos?style=for-the-badge&color=00114d&labelColor=282A36&logo=github&logoColor=white" /></a>
-</p>
-
-<!-- Avatar/animation -->
-<img align="right" alt="typing-dev" src="https://media.tenor.com/dHk-LfzHrtwAAAAj/linux-computer.gif" width="90px" />
-
-<br>
-
-Sou desenvolvedor backend e DevOps na SEFAZ-PI, focado em soluções escaláveis, pipelines automatizados, integração de APIs, microsserviços e sistemas legados. Com experiência sólida em **Java, Spring, AWS, Docker, C#** e mais. Estou em constante evolução, buscando liderar com técnica, propósito e boas práticas.
+Possuo forte domínio em Java, Spring Boot, C#, AWS e infraestrutura como código, além de práticas modernas de versionamento, CI/CD, testes automatizados e provisionamento de ambientes com Docker/OpenShift. Tenho perfil colaborativo, organizado e voltado à entrega de valor com qualidade.
 
 ---
 
-<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks</h3>
+## 📫 Contato
+
+<p align="center">
+  <a href="https://www.linkedin.com/feed/" target="_blank">
+    <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00114d" />
+  </a>
+  <a href="mailto:eu@pedrocutrim.com.br" target="_blank">
+    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-Email-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=00114d" />
+  </a>
+  <a href="https://github.com/pedrocutrimsantos?tab=repositories" target="_blank">
+    <img alt="GitHub" src="https://custom-icon-badges.demolab.com/badge/-GitHub-282A36?style=for-the-badge&logo=github&logoColor=white&labelColor=00114d" />
+  </a>
+  <a href="https://github.com/pedrocutrimsantos?tab=followers" target="_blank">
+    <img alt="Followers" src="https://img.shields.io/github/followers/pedrocutrimsantos?style=for-the-badge&color=00114d&labelColor=282A36&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧰 Tecnologias & Ferramentas
 
 <div align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="OpenShift" src="https://img.shields.io/badge/OpenShift-E00?style=for-the-badge&logo=red-hat-open-shift&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="GitLab" src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
+  <img alt="GitLab CI" src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
   <img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-20232A?style=for-the-badge&logo=keycloak&logoColor=white" />
   <img alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white" />
   <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
@@ -58,18 +47,20 @@ Sou desenvolvedor backend e DevOps na SEFAZ-PI, focado em soluções escaláveis
 
 ---
 
-<!-- Typing SVG -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00114d&width=500&center=true&vCenter=true&size=17&lines=DevOps+%7C+Backend+%7C+Software+Craftsmanship;Sempre+melhorando+1%25+por+dia!" 
-      alt="Typing SVG" />
-  </a>
-</p>
+## 🏆 Destaques profissionais
 
-<!-- GitHub Stats -->
+- ✅ Estruturação de pipelines CI/CD com GitLab CI para ambientes com Docker e OpenShift
+- ✅ Modernização de sistemas monolíticos com arquitetura de microsserviços
+- ✅ Integração com serviços como WhatsApp, GitLab API, MergeDoc e Cadastro
+- ✅ Experiência com IAM e provisionamento de infraestrutura via CloudFormation na AWS
+- ✅ Implementação de segurança via Keycloak (OAuth2) em APIs internas
+
+---
+
+## 📈 GitHub em ação
+
 <details>
-  <summary>⚡ GitHub Stats</summary>
+  <summary>Estatísticas</summary>
   <br>
   <div align="center">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=pedrocutrimsantos&show_icons=true&theme=blueberry&rank_icon=github" />
@@ -77,8 +68,10 @@ Sou desenvolvedor backend e DevOps na SEFAZ-PI, focado em soluções escaláveis
   </div>
 </details>
 
+---
 
-<!-- Contribution Graph Pacman -->
+## 🎮 Gráfico de Contribuições
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
