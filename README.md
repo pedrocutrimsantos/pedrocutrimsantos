@@ -1,12 +1,12 @@
 <!-- ============ HEADER ANIMADO ============ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00114d,50:1e3a8a,100:00a8ff&height=240&section=header&text=Pedro%20Cutrim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20OWASP%C2%AE%20Chapter%20Leader&descAlignY=58&descSize=16" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00114d,50:1e3a8a,100:00a8ff&height=240&section=header&text=Pedro%20Cutrim&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Backend%20Engineer%20%E2%80%A2%20DevOps%20%E2%80%A2%20Founder%20%40%20Level%203&descAlignY=58&descSize=16" width="100%" />
 </div>
 
 <!-- ============ TYPING ANIMADO ============ -->
 <div align="center">
   <a href="https://github.com/pedrocutrimsantos">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00114D&center=true&vCenter=true&width=720&lines=Construindo+sistemas+que+escalam+desde+2017;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+.NET+%E2%80%A2+AWS+%E2%80%A2+OpenShift;Liderando+a+comunidade+OWASP%C2%AE+no+Brasil;Founder+%40+Level+3+%E2%80%94+Madex+%26+AquaVivo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=800&color=00114D&center=true&vCenter=true&width=720&lines=Construindo+sistemas+que+escalam+desde+2017;Java+%E2%80%A2+Kotlin+%E2%80%A2+Spring+Boot+%E2%80%A2+.NET;DevOps+%E2%80%A2+AWS+%E2%80%A2+OpenShift+%E2%80%A2+Docker;Founder+%40+Level+3+%E2%80%94+Madex%2C+AquaVivo+%26+labs+de+IA" alt="Typing SVG" />
   </a>
 </div>
 
@@ -26,49 +26,13 @@
 nome:        Pedro Cutrim dos Santos
 cargo:       Senior Backend Engineer @ TIVIT
 experiência: +7 anos em sistemas críticos (público & privado)
-foco:        Java • Spring Boot • .NET • AWS • Microsserviços
-comunidade:  OWASP® Chapter Leader Brasil
+foco:        Java • Kotlin • Spring Boot • .NET • AWS • Microsserviços
 empresa:     Level 3 (founder) — produtos full-stack sob medida
 localização: São Luís, Maranhão 🇧🇷
 hobby:       Transformar problemas de negócio em sistemas elegantes
 ```
 
 Engenheiro backend que entrega sistemas robustos, escaláveis e seguros. Aplico **DDD**, **Clean Code** e **arquitetura de microsserviços** para resolver problemas de verdade — com métricas para provar.
-
----
-
-## 🚀 No que estou trabalhando agora
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🐟 AquaVivo</h3>
-      <p><b>Sistema de Gestão para Piscicultura</b></p>
-      <p>Plataforma completa para o ciclo produtivo da Piscicultura Vitória: tanques, lotes, análise de água, manejos, transferências e despesca, além de estoque, custos e financeiro.</p>
-      <p><b>Diferenciais:</b> índice de saúde, previsão de despesca via curvas de crescimento, calculadora inteligente de ração e modo offline em campo.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Spring%20Boot%203-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Java%2017-007396?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛒 Madex</h3>
-      <p><b>Sistema PDV (Point-of-Sale)</b></p>
-      <p>Plataforma de Ponto de Venda em produção, redesenhada com estética premium em dark mode, ícones coloridos e microinterações com Framer Motion.</p>
-      <p><b>Foco:</b> performance no caixa, experiência do operador e fluxo de checkout otimizado para alto volume de transações.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-        <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -100,11 +64,68 @@ Engenheiro backend que entrega sistemas robustos, escaláveis e seguros. Aplico 
 
 ---
 
+## 🚀 Level 3 — Produtos em produção
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🐟 AquaVivo</h3>
+      <p><b>Sistema de Gestão para Piscicultura</b></p>
+      <p>Plataforma completa para o ciclo produtivo da Piscicultura Vitória: tanques, lotes, análise de água, manejos, transferências e despesca, além de estoque, custos e financeiro.</p>
+      <p><b>Diferenciais:</b> índice de saúde, previsão de despesca via curvas de crescimento, calculadora inteligente de ração e modo offline em campo.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Spring%20Boot%203-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Java%2017-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Madex</h3>
+      <p><b>Sistema PDV (Point-of-Sale)</b></p>
+      <p>Plataforma de Ponto de Venda em produção, redesenhada com estética premium em dark mode, ícones coloridos e microinterações com Framer Motion.</p>
+      <p><b>Foco:</b> performance no caixa, experiência do operador e fluxo de checkout otimizado para alto volume de transações.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/-Framer%20Motion-0055FF?style=flat-square&logo=framer&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🔬 Labs & Experimentos
+
+<table>
+  <tr>
+    <td width="100%" valign="top">
+      <h3>🧠 Sentiment Service</h3>
+      <p><b>Microsserviço de análise de sentimento com IA</b></p>
+      <p>Serviço REST que classifica feedbacks em <code>POSITIVE</code>, <code>NEGATIVE</code>, <code>NEUTRAL</code> ou <code>MIXED</code>, retornando insights acionáveis: <i>summary</i>, <i>reason</i>, <i>improvementArea</i> e <i>improvement</i> sugerido.</p>
+      <p><b>Arquitetura:</b> integração com Hugging Face Inference API (modelo <code>cardiffnlp/twitter-xlm-roberta-base-sentiment</code>) com provider <i>mock</i> para desenvolvimento offline. Segmentação por sentenças, agregação com rótulo MIXED e endpoint diagnóstico <code>/_env</code> com token mascarado.</p>
+      <p><b>Roadmap:</b> métricas Micrometer (p95/p99), Auth JWT, rate limiting, manifests Kubernetes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-Java%2021-007396?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Spring%20Boot%203-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+        <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 💼 Trajetória
 
 ```
 2025 ──── 🏢  TIVIT — Senior Backend Engineer (atual)
-       └── 🛡️  OWASP® Foundation — Chapter Leader Brasil (atual)
        └── 🚀  Level 3 — Founder & Full-Stack Developer (atual)
 
 2025 ──── 👨‍🏫  Seduc-PI — Professor de Tecnologia
@@ -129,6 +150,7 @@ Engenheiro backend que entrega sistemas robustos, escaláveis e seguros. Aplico 
       <h4>🔧 Backend</h4>
       <p>
         <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+        <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
         <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
         <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
         <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -161,17 +183,18 @@ Engenheiro backend que entrega sistemas robustos, escaláveis e seguros. Aplico 
         <img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-20232A?style=for-the-badge&logo=keycloak&logoColor=white" />
         <img alt="Flyway" src="https://img.shields.io/badge/Flyway-CC0000?style=for-the-badge&logo=flyway&logoColor=white" />
       </p>
-      <h4>🛡️ Segurança & Práticas</h4>
+      <h4>🤖 IA & Integrações</h4>
       <p>
-        <img alt="OWASP" src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+        <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
         <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-EB5424?style=for-the-badge&logo=auth0&logoColor=white" />
         <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+        <img alt="Swagger" src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
       </p>
-      <h4>🏛️ Arquitetura</h4>
+      <h4>🏛️ Arquitetura & Práticas</h4>
       <p>
         <code>DDD</code> · <code>Clean Code</code> · <code>Microsserviços</code><br/>
         <code>Event-Driven</code> · <code>Multi-tenant</code> · <code>IaC</code><br/>
-        <code>Code Review</code> · <code>OWASP Top 10</code>
+        <code>Code Review</code> · <code>REST APIs</code>
       </p>
     </td>
   </tr>
@@ -243,14 +266,14 @@ Engenheiro backend que entrega sistemas robustos, escaláveis e seguros. Aplico 
 
 > *"Bom código resolve problemas. Código excelente resolve problemas que você nem sabia que tinha — e segue rodando às 3 da manhã enquanto você dorme."*
 
-Acredito em **simplicidade sobre cleverness**, **métricas sobre achismos** e **comunidade sobre competição**. Por isso lidero a OWASP no Brasil — segurança não é solo, é trabalho coletivo.
+Acredito em **simplicidade sobre cleverness**, **métricas sobre achismos** e **código que envelhece bem**. Segurança e performance não são features — são baseline.
 
 ---
 
 ## 🤝 Vamos conversar?
 
 <div align="center">
-  <p>Estou sempre aberto a discutir <b>arquitetura</b>, <b>segurança</b>, <b>oportunidades</b> e <b>cafés ☕</b>.</p>
+  <p>Estou sempre aberto a discutir <b>arquitetura</b>, <b>backend</b>, <b>oportunidades</b> e <b>cafés ☕</b>.</p>
   <a href="https://www.linkedin.com/in/pedro-cutrim-dos-santos-9474027a" target="_blank">
     <img alt="LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-Conecte%20no%20LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00114d" />
   </a>
